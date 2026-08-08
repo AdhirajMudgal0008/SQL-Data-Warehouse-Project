@@ -1,7 +1,7 @@
 # SQL-Data-Warehouse-Project
 Building An Mordern Data Warehouse With SQL-Server, Including Processes like ETL, Data Modeling And Analytics. 
 
-# Data Warehouse and Analytics Project
+# Data Warehouse and Analytics Project🚀
 
 Welcome to the || *** Data Warehouse and Analytics Project *** || Repository!!🚀
 The project demonstrate a comprehensive data warehousing and analytics solution , from building a data warehouse to generating actionable insights . To designed as a portfolio project highlights industry best practices in data engineering and analytics.
@@ -12,10 +12,10 @@ _ _ _ _ _:)
 
 ## Building the Data Warehouse (Data Engineering)
 
-#### Objectives :__---->
+#### 🚀Objectives :__---->
 Developing an modern data warehouse using SQL-Server to consolidate of sales data , enabling analytical reporting and informed decision-making.
 
-#### Specifications:__----->
+#### 🚀Specifications:__----->
 - **Data Source**: Importing the data from two source system ( ERP and CRM ) provided as CSV files.
 - **Data Quality**: Cleanse and  resolve data quality issues prior to analysis.
 - **Integration**: Combining both source into a single, user-friendly data model designed for analytics queries.
@@ -25,9 +25,9 @@ Developing an modern data warehouse using SQL-Server to consolidate of sales dat
   _ _ _ _ _ _:)
 
 
-  ### BI : Analytics & Reporting  ( Data Analytics)
+  ### 🚀BI : Analytics & Reporting  ( Data Analytics)
 
-  ### Objectives :__------>
+  ###🚀 Objectives :__------>
   Developing an SQL- based analytics to deliver detailed insights into  :
   - **Customer Behavior**
   - **Product Performance**
@@ -36,7 +36,7 @@ Developing an modern data warehouse using SQL-Server to consolidate of sales dat
  These insights empower stakeholders with key business mertics , enabling strategic decision-making.
 
 
- ## LICENSE
+ ## 📜LICENSE
  This project is licensed under the [MIT License].(LICENSE). You are free to use , modify and share this project with proper attribution.
 
 
