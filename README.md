@@ -37,7 +37,7 @@ Developing an modern data warehouse using SQL-Server to consolidate of sales dat
 
 
  ## 📜LICENSE
- This project is licensed under the [MIT License].(LICENSE). You are free to use , modify and share this project with proper attribution.
+ This project is licensed under the [MIT License]. You are free to use , modify and share this project with proper attribution.
 
 
  ## 🔥 About Me 
